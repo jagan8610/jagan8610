@@ -68,7 +68,7 @@ html>
     2023-2026
 </td>
 <td>
-    BCA
+    BSc INFORMATION TECHNOLOGY 
 </td>
 <td>
     Government Arts and Science College,Valaprai
